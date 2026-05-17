@@ -25,10 +25,10 @@ Este projeto implementa um jogo em **VisualG** que tenta adivinhar o animal pens
 ---
 
 ## Autores
-Asafe de Paiva Almeida
-João Paulo Gomes Lisboa
-Murilo Arruda Gonçalves
-Pedro Henrique Olivalves Ribeiro Alves
+Asafe de Paiva Almeida,
+João Paulo Gomes Lisboa,
+Murilo Arruda Gonçalves,
+Pedro Henrique Olivalves Ribeiro Alves.
 
 
 
