@@ -1,11 +1,11 @@
 # Jogo-descubra-animal-visualg
-Jogo de adivinhação de animais em VisualG com 28 animais diferentes. O jogador responde perguntas de “sim” ou “não” até o sistema descobrir qual animal foi escolhido.
+Jogo de adivinhação de animais em VisualG com 28 animais diferentes. O jogador deve responder as  perguntas de “sim” ou “não” até o sistema descobrir qual animal foi escolhido.
 
 ## Documentação Técnica
-Este projeto implementa um jogo em **VisualG** que tenta adivinhar o animal pensado pelo usuário através de perguntas de "Sim" ou "Não".
+O programa foi desenvolvido em VisualG e tem como objetivo descobrir qual animal o usuário está imaginando, utilizando respostas simples de “Sim” ou “Não”.
 
 - **Lógica utilizada:**  
-  O programa apresenta um menu principal e, ao iniciar o jogo, faz perguntas ao usuário. As respostas são validadas para aceitar apenas "S" ou "N".  
+  O programa apresenta um menu principal e, ao iniciar o jogo, faz perguntas ao usuário. As respostas validas são apenas "S" ou "N".  
 - **Estruturas aplicadas:**  
   - Procedimentos para modularizar o código (menu, instruções, cabeçalho, arte ASCII).  
   - Laços de repetição (`repita...até`) para validar entradas.  
