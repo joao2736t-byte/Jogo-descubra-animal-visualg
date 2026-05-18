@@ -16,7 +16,7 @@ O programa foi desenvolvido em VisualG e tem como objetivo descobrir qual animal
 ---
 ##  Manual de Utilização
 1. **Instale o VisualG** em seu computador.  
-2. **Baixe o arquivo `algoritmo_adivinhador_animais.alg`** deste repositório.  
+2. **Baixe o arquivo `Adivinhador-de-animais.ALG`** deste repositório.  
 3. Abra o **VisualG**, clique em **Arquivo → Abrir** e selecione o código baixado.  
 4. Para executar, clique em **Executar → Rodar Algoritmo** ou pressione **F9**.  
 5. Siga as instruções exibidas na tela, respondendo às perguntas com **S** (Sim) ou **N** (Não).
