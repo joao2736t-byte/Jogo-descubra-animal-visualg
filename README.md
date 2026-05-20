@@ -6,11 +6,11 @@ Um jogo de adivinhar um animal no VisualG com 28 animais diferentes. Você preci
 
 É bastante simples, escrito no VisualG (simplesmente informe qual animal o usuário está pensando em algumas perguntas de “Sim” ou “Não”).
 
-Lógica usada:**
+**Lógica usada:**
 
 Ele tem um menu principal e então começa a fazer perguntas ao usuário, por exemplo. Apenas respostas “Y” ou “N”.
 
-Estruturas aplicadas:**
+**Estruturas aplicadas:**
 
 Métodos para separar seções de código (menu, instruções, cabeçalho, arte ASCII).
 
