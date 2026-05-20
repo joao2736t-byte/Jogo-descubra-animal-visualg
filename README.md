@@ -8,7 +8,7 @@ Um jogo de adivinhar um animal no VisualG com 28 animais diferentes. Você preci
 
 **Lógica usada:**
 
-Ele tem um menu principal e então começa a fazer perguntas ao usuário, por exemplo. Apenas respostas “Y” ou “N”.
+Ele tem um menu principal e então começa a fazer perguntas ao usuário, por exemplo. Apenas respostas “S” ou “N”.
 
 **Estruturas aplicadas:**
 
