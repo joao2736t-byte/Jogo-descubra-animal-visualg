@@ -1,6 +1,6 @@
 **Jogo-descubra-animal-visualg**
 
-Um jogo de adivinhar um animal no VisualG com 28 animais diferentes. Você precisa responder às perguntas de sim ou não até que um determinado animal (o que você escolheu) seja descoberto.
+Um jogo de adivinhar um animal no VisualG com 30 animais diferentes. Você precisa responder às perguntas de sim ou não até que um determinado animal (o que você escolheu) seja descoberto.
 
 **Documentação Técnica**
 
@@ -22,7 +22,7 @@ Estruturas condicionais (se...então...senão). Acertar ou errar sua resposta de
 
 Respostas simples SIM (“S”) e NÃO (“N”).
 
-A lista de animais é fixa (28 espécies)
+A lista de animais é fixa (30 espécies)
 
 **Manual de utilização**
 
